@@ -82,3 +82,9 @@
     font-size: 25px;
 }
 
+#skill{
+    position: absolute;
+    top: 280px;
+    left: 16px;
+    font-size: 40px;
+}
